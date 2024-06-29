@@ -1,4 +1,4 @@
-This is my **first project with the Arduino UNO**. Provided are both the schematic *showing how the hardware is set up* and the sketch *the software and logic that drives the program*.
+This is my **first project with the Arduino UNO**. Provided are both the schematic *-showing how the hardware is set up-* and the sketch *-the software and logic that drives the program*.
 
 In this project we use a *digital input* to toggle an LED on and off. What you need for this project is:
 - 1 Arduino
