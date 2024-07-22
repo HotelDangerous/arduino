@@ -5,7 +5,7 @@ of the subdirectories in this directory are independent projects. Each project c
 
 ```c++
 void post_script(){
-  std::cout << "The Arduino repository is complementary to my goal of learning c++.";
+  std::cout << "The Arduino repository is complementary to my goal of learning c++.\n";
 }
 // TODO: Learn C++ and get better at Robotics / Arduino
 ```
